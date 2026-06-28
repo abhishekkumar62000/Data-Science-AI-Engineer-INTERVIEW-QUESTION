@@ -1,6 +1,4 @@
-# Data-Science-AI-Engineer-INTERVIEW-QUESTION f
- 
- bf
+# Data-Science-AI-Engineer-INTERVIEW-QUESTION 
 
  
  
